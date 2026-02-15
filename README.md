@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ishaanthenerd!
 - 👀 I’m interested in mathematics, especially for quantitative finance.
 - 🌱 I’m currently training for competitive programming. My hope is to make it to ICPC World Finals!
-- ⚡ Fun fact: I love playing poker. I'm currently reading The Mathematics of Poker by Bill Chen.
+- ⚡ Fun fact: I love playing mahjong. I'm currently reading Riichi Book 1 by Daina Chiba.
 - 📫 How to reach me: ishaan.gupta.n1@outlook.com
 - 😄 Pronouns: he/him
 
